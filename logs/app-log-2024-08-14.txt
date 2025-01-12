@@ -1,0 +1,19 @@
+2024-08-14 09:31:41 INFO  c.finflex.service.TransactionService - Transaction created successfully
+2024-08-14 09:48:34 INFO  com.finflex.service.AccountService - Customer created successfully with customer number: 100009
+2024-08-14 09:49:10 INFO  com.finflex.service.AccountService - Customer deleted successfully with customer number: 100009
+2024-08-14 09:49:35 INFO  com.finflex.service.AccountService - Customer deleted successfully with customer number: 100009
+2024-08-14 09:51:11 INFO  com.finflex.service.AccountService - Money deposited successfully with account number: 999960
+2024-08-14 09:51:17 INFO  com.finflex.service.AccountService - Money deposited successfully with account number: 999961
+2024-08-14 09:51:26 INFO  com.finflex.service.AccountService - Money deposited successfully with account number: 999962
+2024-08-14 09:51:31 INFO  com.finflex.service.AccountService - Money deposited successfully with account number: 999963
+2024-08-14 09:52:20 INFO  com.finflex.service.AccountService - Account created successfully with account number: 999959
+2024-08-14 09:52:29 INFO  com.finflex.service.AccountService - Money deposited successfully with account number: 999959
+2024-08-14 17:26:05 INFO  c.finflex.service.TransactionService - Transaction created successfully
+2024-08-14 17:31:36 INFO  com.finflex.service.AccountService - Money withdrawn successfully with account number: 999998
+2024-08-14 17:31:42 INFO  com.finflex.service.AccountService - Money deposited successfully with account number: 999998
+2024-08-14 17:31:58 INFO  com.finflex.service.AccountService - Money withdrawn successfully with account number: 999996
+2024-08-14 17:32:02 INFO  com.finflex.service.AccountService - Account deleted successfully with account number: 999996
+2024-08-14 17:32:09 INFO  com.finflex.service.AccountService - Account created successfully with account number: 999956
+2024-08-14 17:35:27 INFO  com.finflex.service.AccountService - Customer created successfully with customer number: 100010
+2024-08-14 23:32:53 INFO  c.finflex.service.TransactionService - Transaction created successfully
+2024-08-14 23:33:32 INFO  com.finflex.service.AccountService - Money withdrawn successfully with account number: 999998
