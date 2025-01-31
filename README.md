@@ -11,7 +11,7 @@ Ayrıca Material UI ve Ant Design'dan yararlanılmıştır.
  Projenin backend uygulamasını klonlayın
 
 ```bash
-git clone https://gitea.infina.com.tr/akademi-24/FinFlex.git
+git clone https://github.com/uguryagmur96/FinFlexBE.git
 ```
 
 Projenin frontend uygulamasını klonlayın
