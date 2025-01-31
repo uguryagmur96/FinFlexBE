@@ -17,7 +17,7 @@ git clone https://github.com/uguryagmur96/FinFlexBE.git
 Projenin frontend uygulamasını klonlayın
 
 ```bash
-git clone --branch origin https://gitea.infina.com.tr/akademi-24/FinFlex.git
+git clone https://github.com/uguryagmur96/FinFlexFE.git
 ```
 
 Kafka konfigürasyonu
